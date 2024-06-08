@@ -1,1 +1,3 @@
 venv/*
+travel2.sqlite
+travel2.backup.sqlite
